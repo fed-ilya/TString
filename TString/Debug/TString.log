@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  main.cpp
+C:\Users\s22380137\source\repos\TString\TString\main.cpp(14,19): error C3867: "TString::lenght": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+  Создание кода...
